@@ -9,10 +9,10 @@ You will need requirejs, backbonejs, underscorejs, and jQuery to use this module
 #### Recommended reading:
 Everything here can be found in the great documentation provided. 
 
-	<http://backbonejs.org>
-	<http://requirejs.org>
-	<http://underscorejs.org>
-	<http://api.jquery.com>
+	[http://backbonejs.org](http://backbonejs.org)
+	[http://requirejs.org](http://requirejs.org)
+	[http://underscorejs.org](http://underscorejs.org)
+	[http://api.jquery.com](http://api.jquery.com)
 
 
 #### Usage: 
@@ -27,6 +27,6 @@ Any gridButton elements that don't fit within the properties set in grid.css wil
 
 	Generates 2108 DOM elements < 1000ms (average).
 
-	<http://jsperf.plasmicmedia.com>
+	[http://jsperf.plasmicmedia.com](http://jsperf.plasmicmedia.com)
 
 
