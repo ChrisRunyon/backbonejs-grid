@@ -30,7 +30,9 @@ Any gridButton elements that don't fit within the properties set in grid.css wil
 #### Benchmark: 
 
 	Generates 2108 DOM elements < 1000ms (average).
+
+	See the grid in action here.
 [](http://)
-	[http://jsperf.plasmicmedia.com](http://jsperf.plasmicmedia.com)
+	[http://aplacefor3d.com/models](http://aplacefor3d.com/models)
 
 
