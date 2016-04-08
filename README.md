@@ -40,6 +40,6 @@ See the grid in action here.
 	[http://modernjs.aplacefor3d.com](http://modernjs.aplacefor3d.com)  
 
 #### Note: 
-For people who didn't know, it's because you don't know me. So please stop speaking for me or pretending you know who I am. Stalking is not a way to get to know me. Any questions or comments send them to chris@plasmicmedia.com
+For people who didn't know, it's because you don't know me. So please stop speaking for me or pretending you know who I am. Stalking is not a way to get to know me. Any questions or comments send them to chris@plasmicmedia.com. No politics. This is not an endorsement. 
 
 
