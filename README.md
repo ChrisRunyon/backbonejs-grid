@@ -41,3 +41,10 @@ See the grid in action here.
 
 #### Note: 
 For people who didn't know, it's because you don't know me. So please stop speaking for me or pretending you know who I am. Stalking is not a way to get to know me. Any questions or comments send them to chris@plasmicmedia.com. No politics. This is not an endorsement nor a proposal and is solely intended for research. 
+
+#### Free Software:
+Please consider donating in order to continue work for free software.
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVACW559Q5Z92)
+
+Thanks
