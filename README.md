@@ -40,7 +40,7 @@ See the grid in action here.
 	[http://modernjs.aplacefor3d.com](http://modernjs.aplacefor3d.com)  
 
 #### Note: 
-For people who didn't know, it's because you don't know me. So please stop speaking for me or pretending you know who I am. Stalking is not a way to get to know me. Any questions or comments send them to chris@plasmicmedia.com. No politics. This is not an endorsement nor a proposal and is solely intended for research. 
+For people who didn't know, it's because you don't know me. So please stop speaking for me or pretending you know who I am. Stalking is not a way to get to know me. Any questions or comments send them to chris@plasmicmedia.com. No politics. This is not an endorsement nor a proposal and is solely intended for research. Remember this is public so it's free and shouldn't reflect work you know nothing about, such as private or for business projects. 
 
 #### Free Software:
 Please consider donating in order to continue work for free software.
