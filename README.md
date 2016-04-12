@@ -29,6 +29,63 @@ Use .gridbutton, .item-imagewrapper, .item-image to resize the gridButton.
 
 Any gridButton elements that don't fit within the properties set in grid.css will automatically generate another gridPage.  
 
+#### Grid: 
+``` javascript
+	createGridContainer: function (data) {
+        var options = {
+            data: data.result,
+            elements: 100
+        };
+        this.gridcontainer = new GridBase(options);
+        var container = this.$el.find(".galleryContainer");
+        container.append(this.gridcontainer.render().el);
+    },
+``` 
+
+#### CSS:
+``` css
+	.gridwrapper {
+	  	height: 1450px;
+	  	overflow: hidden;
+	  	position: relative;
+	  	width: 950px
+	}
+
+	.gridcontainer {
+	  	margin-left: 0;
+	  	height: 1450px;
+	  	width: 10000px;
+	}
+
+	.gridpagecontainer {
+	  	display: block;
+	}
+
+	.gridpage {
+	  	float: left;
+	  	width: 950px;
+	  	height: 1450px;
+	}
+
+	.gridbutton {
+	  	float: left;
+	  	width: 12px;
+	 	height: 12px;
+	  	margin: 5px 5px;
+	}
+
+	.item-imagewrapper {
+	  	width: 12px;
+	  	height: 13px;
+	}
+
+	.item-image {
+	  	position: relative;
+	  	top: -2px;
+	  	left: 1px;
+	}
+```
+
 #### Benchmark: 
 
 	Generates 2108 DOM elements < 1000ms (average).
