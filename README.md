@@ -1,7 +1,9 @@
 # backbonejs-grid
 
 #### Summary: 
-This versatile Backbonejs Grid can be used to display a grid of elements and list of elements or pages of elements.
+Don't over-engineer your app with code bloat from a Javascript framework. 
+	 
+This versatile and efficient BackboneJS Grid can be used to display a grid of elements and list of elements or pages of elements.
 
 #### Dependencies:
 You will need requirejs, backbonejs, underscorejs, and jQuery to use this module.  
