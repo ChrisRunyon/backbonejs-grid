@@ -23,7 +23,7 @@ Everything here can be found in the great documentation provided.
 
 #### Usage: 
 
-Instantiate gridBase.js and override the gridElements variable to the number of elements you want to appear in your gridPage. Use grid.css to resize the .gridwrapper, .gridcontainer, and .gridpage. 
+Instantiate gridBase.js and override the elements property in the options to a number of items you want to appear in your gridPage. Use grid.css to resize the .gridwrapper, .gridcontainer, and .gridpage. 
 
 Use .gridbutton, .item-imagewrapper, .item-image to resize the gridButton. 
 
