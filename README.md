@@ -107,5 +107,3 @@ Please consider donating in order to continue work for free software. Don't trus
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVACW559Q5Z92)
 
 If you would like me to continue posting solutions to github then donate. This is not meant to imply that I work for free. Mind your business. I'm pro-business. You should be too unless you're a commie (communist) and you hate that I generated 1/4 million in ad rev. United States of Communism? Nope.
-
-Thanks
