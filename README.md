@@ -102,7 +102,7 @@ See the grid in action here.
 For people who didn't know, it's because you don't know me. So please stop speaking for me or pretending you know who I am. Stalking is not a cute word. https://en.wikipedia.org/wiki/Stalking Stalking is not a way to get to know me. Don't be that person. Any questions or comments send them to chris@plasmicmedia.com. No politics. This is not an endorsement nor a proposal and is solely intended for research. Remember this is public so it's free and shouldn't reflect work you know nothing about, such as private or for business projects. 
 
 #### Free Software:
-Please consider donating in order to continue work for free software. Don't trust Vegetarians who place greater value on animals than you and yours. They have no idea what they are talking about. They must be racist towards meat. Just like the media. 
+Please consider donating in order to continue work for free software. Don't trust Vegetarians who place greater value on animals than you and yours. They have no idea what they are talking about. They must be racist towards meat and green because I can enjoy a burger and they can't. Just like the media. 
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVACW559Q5Z92)
 
